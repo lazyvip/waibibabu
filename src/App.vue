@@ -31,7 +31,7 @@
     </v-menu>
     <v-spacer></v-spacer>
      <v-btn   text class="text-white" target="_blank" 
-        href="https://github.com/shadowdreamer/waibibabu">github
+        href="https://lazybook.netlify.app/#/">懒人手册
         <v-icon small>mdi-open-in-new</v-icon>
         </v-btn>
     </v-app-bar>
