@@ -2,14 +2,14 @@
   <v-app>
     <v-app-bar
       app
-      color="#cb62b4"
+      color="#34495e"
       dark
       dense
     > 
     <v-menu offset-y>
       <template v-slot:activator="{ on, attrs }">
         <v-btn
-          color="#cb62b4"
+          color="#34495e"
           dark
           v-bind="attrs"
           v-on="on"
